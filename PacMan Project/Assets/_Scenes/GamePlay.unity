@@ -2050,7 +2050,6 @@ GameObject:
   - component: {fileID: 119318461}
   - component: {fileID: 119318464}
   - component: {fileID: 119318463}
-  - component: {fileID: 119318462}
   m_Layer: 0
   m_Name: CollectibleDot
   m_TagString: pacdot
@@ -2072,18 +2071,6 @@ Transform:
   m_Father: {fileID: 182492009}
   m_RootOrder: 8
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &119318462
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 114740749374083148, guid: 10e01e9c650beae47b40b031e0b8816f,
-    type: 2}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 119318460}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7fbcd800c70cd8e4c8c3bc710edfe5bf, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!61 &119318463
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -2269,7 +2256,6 @@ GameObject:
   - component: {fileID: 127149927}
   - component: {fileID: 127149930}
   - component: {fileID: 127149929}
-  - component: {fileID: 127149928}
   m_Layer: 0
   m_Name: CollectibleDot
   m_TagString: pacdot
@@ -2291,18 +2277,6 @@ Transform:
   m_Father: {fileID: 182492009}
   m_RootOrder: 25
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &127149928
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 114604108210640072, guid: 10e01e9c650beae47b40b031e0b8816f,
-    type: 2}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 127149926}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7fbcd800c70cd8e4c8c3bc710edfe5bf, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!61 &127149929
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -2385,7 +2359,6 @@ GameObject:
   - component: {fileID: 127554877}
   - component: {fileID: 127554880}
   - component: {fileID: 127554879}
-  - component: {fileID: 127554878}
   m_Layer: 0
   m_Name: CollectibleDot
   m_TagString: pacdot
@@ -2407,18 +2380,6 @@ Transform:
   m_Father: {fileID: 1999108897}
   m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &127554878
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 114872466723429848, guid: 10e01e9c650beae47b40b031e0b8816f,
-    type: 2}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 127554876}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7fbcd800c70cd8e4c8c3bc710edfe5bf, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!61 &127554879
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -3531,7 +3492,6 @@ GameObject:
   - component: {fileID: 180957835}
   - component: {fileID: 180957838}
   - component: {fileID: 180957837}
-  - component: {fileID: 180957836}
   m_Layer: 0
   m_Name: CollectibleDot
   m_TagString: pacdot
@@ -3553,18 +3513,6 @@ Transform:
   m_Father: {fileID: 1141142101}
   m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &180957836
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 114790183407556862, guid: 10e01e9c650beae47b40b031e0b8816f,
-    type: 2}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 180957834}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7fbcd800c70cd8e4c8c3bc710edfe5bf, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!61 &180957837
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -3909,7 +3857,6 @@ GameObject:
   - component: {fileID: 200580936}
   - component: {fileID: 200580939}
   - component: {fileID: 200580938}
-  - component: {fileID: 200580937}
   m_Layer: 0
   m_Name: CollectibleDot
   m_TagString: pacdot
@@ -3931,18 +3878,6 @@ Transform:
   m_Father: {fileID: 1141142101}
   m_RootOrder: 9
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &200580937
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 114532650020799158, guid: 10e01e9c650beae47b40b031e0b8816f,
-    type: 2}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 200580935}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7fbcd800c70cd8e4c8c3bc710edfe5bf, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!61 &200580938
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -4540,7 +4475,6 @@ GameObject:
   - component: {fileID: 216708174}
   - component: {fileID: 216708177}
   - component: {fileID: 216708176}
-  - component: {fileID: 216708175}
   m_Layer: 0
   m_Name: CollectibleDot
   m_TagString: pacdot
@@ -4562,18 +4496,6 @@ Transform:
   m_Father: {fileID: 182492009}
   m_RootOrder: 19
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &216708175
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 114345815140159072, guid: 10e01e9c650beae47b40b031e0b8816f,
-    type: 2}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 216708173}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7fbcd800c70cd8e4c8c3bc710edfe5bf, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!61 &216708176
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -4759,7 +4681,6 @@ GameObject:
   - component: {fileID: 236150766}
   - component: {fileID: 236150769}
   - component: {fileID: 236150768}
-  - component: {fileID: 236150767}
   m_Layer: 0
   m_Name: CollectibleDot
   m_TagString: pacdot
@@ -4781,18 +4702,6 @@ Transform:
   m_Father: {fileID: 182492009}
   m_RootOrder: 16
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &236150767
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 114780026693335222, guid: 10e01e9c650beae47b40b031e0b8816f,
-    type: 2}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 236150765}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7fbcd800c70cd8e4c8c3bc710edfe5bf, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!61 &236150768
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -4875,7 +4784,6 @@ GameObject:
   - component: {fileID: 241650521}
   - component: {fileID: 241650524}
   - component: {fileID: 241650523}
-  - component: {fileID: 241650522}
   m_Layer: 0
   m_Name: CollectibleDot
   m_TagString: pacdot
@@ -4897,18 +4805,6 @@ Transform:
   m_Father: {fileID: 182492009}
   m_RootOrder: 21
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &241650522
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 114386715535281744, guid: 10e01e9c650beae47b40b031e0b8816f,
-    type: 2}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 241650520}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7fbcd800c70cd8e4c8c3bc710edfe5bf, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!61 &241650523
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -5542,7 +5438,6 @@ GameObject:
   - component: {fileID: 276370450}
   - component: {fileID: 276370453}
   - component: {fileID: 276370452}
-  - component: {fileID: 276370451}
   m_Layer: 0
   m_Name: CollectibleDot
   m_TagString: pacdot
@@ -5564,18 +5459,6 @@ Transform:
   m_Father: {fileID: 1141142101}
   m_RootOrder: 7
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &276370451
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 114485921205302636, guid: 10e01e9c650beae47b40b031e0b8816f,
-    type: 2}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 276370449}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7fbcd800c70cd8e4c8c3bc710edfe5bf, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!61 &276370452
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -7895,7 +7778,6 @@ GameObject:
   - component: {fileID: 370662287}
   - component: {fileID: 370662290}
   - component: {fileID: 370662289}
-  - component: {fileID: 370662288}
   m_Layer: 0
   m_Name: CollectibleDot
   m_TagString: pacdot
@@ -7917,18 +7799,6 @@ Transform:
   m_Father: {fileID: 1141142101}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &370662288
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 114478098530341568, guid: 10e01e9c650beae47b40b031e0b8816f,
-    type: 2}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 370662286}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7fbcd800c70cd8e4c8c3bc710edfe5bf, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!61 &370662289
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -8114,7 +7984,6 @@ GameObject:
   - component: {fileID: 378532552}
   - component: {fileID: 378532555}
   - component: {fileID: 378532554}
-  - component: {fileID: 378532553}
   m_Layer: 0
   m_Name: CollectibleDot
   m_TagString: pacdot
@@ -8136,18 +8005,6 @@ Transform:
   m_Father: {fileID: 182492009}
   m_RootOrder: 20
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &378532553
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 114687839834845460, guid: 10e01e9c650beae47b40b031e0b8816f,
-    type: 2}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 378532551}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7fbcd800c70cd8e4c8c3bc710edfe5bf, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!61 &378532554
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -8230,7 +8087,6 @@ GameObject:
   - component: {fileID: 383131731}
   - component: {fileID: 383131734}
   - component: {fileID: 383131733}
-  - component: {fileID: 383131732}
   m_Layer: 0
   m_Name: CollectibleDot
   m_TagString: pacdot
@@ -8252,18 +8108,6 @@ Transform:
   m_Father: {fileID: 318774052}
   m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &383131732
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 114113128963776850, guid: 10e01e9c650beae47b40b031e0b8816f,
-    type: 2}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 383131730}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7fbcd800c70cd8e4c8c3bc710edfe5bf, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!61 &383131733
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -8714,7 +8558,6 @@ GameObject:
   - component: {fileID: 401845823}
   - component: {fileID: 401845826}
   - component: {fileID: 401845825}
-  - component: {fileID: 401845824}
   m_Layer: 0
   m_Name: CollectibleDot
   m_TagString: pacdot
@@ -8736,18 +8579,6 @@ Transform:
   m_Father: {fileID: 1999108897}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &401845824
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 114849463015138670, guid: 10e01e9c650beae47b40b031e0b8816f,
-    type: 2}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 401845822}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7fbcd800c70cd8e4c8c3bc710edfe5bf, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!61 &401845825
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -9381,9 +9212,8 @@ GameObject:
   - component: {fileID: 468913546}
   - component: {fileID: 468913549}
   - component: {fileID: 468913548}
-  - component: {fileID: 468913547}
   m_Layer: 0
-  m_Name: pacdot
+  m_Name: CollectibleDot
   m_TagString: pacdot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -9403,18 +9233,6 @@ Transform:
   m_Father: {fileID: 1141142101}
   m_RootOrder: 14
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &468913547
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 114747078234468842, guid: 10e01e9c650beae47b40b031e0b8816f,
-    type: 2}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 468913545}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7fbcd800c70cd8e4c8c3bc710edfe5bf, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!61 &468913548
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -9806,7 +9624,6 @@ GameObject:
   - component: {fileID: 484376490}
   - component: {fileID: 484376493}
   - component: {fileID: 484376492}
-  - component: {fileID: 484376491}
   m_Layer: 0
   m_Name: CollectibleDot
   m_TagString: pacdot
@@ -9828,18 +9645,6 @@ Transform:
   m_Father: {fileID: 318774052}
   m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &484376491
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 114185126382456098, guid: 10e01e9c650beae47b40b031e0b8816f,
-    type: 2}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 484376489}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7fbcd800c70cd8e4c8c3bc710edfe5bf, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!61 &484376492
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -10025,7 +9830,6 @@ GameObject:
   - component: {fileID: 488885704}
   - component: {fileID: 488885707}
   - component: {fileID: 488885706}
-  - component: {fileID: 488885705}
   m_Layer: 0
   m_Name: CollectibleDot
   m_TagString: pacdot
@@ -10047,18 +9851,6 @@ Transform:
   m_Father: {fileID: 182492009}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &488885705
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 114636699383088356, guid: 10e01e9c650beae47b40b031e0b8816f,
-    type: 2}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 488885703}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7fbcd800c70cd8e4c8c3bc710edfe5bf, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!61 &488885706
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -10759,7 +10551,6 @@ GameObject:
   - component: {fileID: 527706346}
   - component: {fileID: 527706349}
   - component: {fileID: 527706348}
-  - component: {fileID: 527706347}
   m_Layer: 0
   m_Name: CollectibleDot
   m_TagString: pacdot
@@ -10781,18 +10572,6 @@ Transform:
   m_Father: {fileID: 1141142101}
   m_RootOrder: 6
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &527706347
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 114464343565330628, guid: 10e01e9c650beae47b40b031e0b8816f,
-    type: 2}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 527706345}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7fbcd800c70cd8e4c8c3bc710edfe5bf, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!61 &527706348
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -12425,7 +12204,6 @@ GameObject:
   - component: {fileID: 627339488}
   - component: {fileID: 627339491}
   - component: {fileID: 627339490}
-  - component: {fileID: 627339489}
   m_Layer: 0
   m_Name: CollectibleDot
   m_TagString: pacdot
@@ -12447,18 +12225,6 @@ Transform:
   m_Father: {fileID: 1999108897}
   m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &627339489
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 114879642412886576, guid: 10e01e9c650beae47b40b031e0b8816f,
-    type: 2}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 627339487}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7fbcd800c70cd8e4c8c3bc710edfe5bf, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!61 &627339490
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -12744,7 +12510,6 @@ GameObject:
   - component: {fileID: 652486586}
   - component: {fileID: 652486589}
   - component: {fileID: 652486588}
-  - component: {fileID: 652486587}
   m_Layer: 0
   m_Name: CollectibleDot
   m_TagString: pacdot
@@ -12766,18 +12531,6 @@ Transform:
   m_Father: {fileID: 182492009}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &652486587
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 114712951417464374, guid: 10e01e9c650beae47b40b031e0b8816f,
-    type: 2}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 652486585}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7fbcd800c70cd8e4c8c3bc710edfe5bf, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!61 &652486588
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -13205,7 +12958,6 @@ GameObject:
   - component: {fileID: 686745141}
   - component: {fileID: 686745144}
   - component: {fileID: 686745143}
-  - component: {fileID: 686745142}
   m_Layer: 0
   m_Name: CollectibleDot
   m_TagString: pacdot
@@ -13227,18 +12979,6 @@ Transform:
   m_Father: {fileID: 182492009}
   m_RootOrder: 22
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &686745142
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 114949206799779870, guid: 10e01e9c650beae47b40b031e0b8816f,
-    type: 2}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 686745140}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7fbcd800c70cd8e4c8c3bc710edfe5bf, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!61 &686745143
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -13836,7 +13576,6 @@ GameObject:
   - component: {fileID: 740582604}
   - component: {fileID: 740582607}
   - component: {fileID: 740582606}
-  - component: {fileID: 740582605}
   m_Layer: 0
   m_Name: CollectibleDot
   m_TagString: pacdot
@@ -13858,18 +13597,6 @@ Transform:
   m_Father: {fileID: 1141142101}
   m_RootOrder: 10
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &740582605
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 114509427562389576, guid: 10e01e9c650beae47b40b031e0b8816f,
-    type: 2}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 740582603}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7fbcd800c70cd8e4c8c3bc710edfe5bf, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!61 &740582606
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -14364,7 +14091,6 @@ GameObject:
   - component: {fileID: 773319310}
   - component: {fileID: 773319313}
   - component: {fileID: 773319312}
-  - component: {fileID: 773319311}
   m_Layer: 0
   m_Name: CollectibleDot
   m_TagString: pacdot
@@ -14386,18 +14112,6 @@ Transform:
   m_Father: {fileID: 182492009}
   m_RootOrder: 13
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &773319311
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 114782338152547498, guid: 10e01e9c650beae47b40b031e0b8816f,
-    type: 2}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 773319309}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7fbcd800c70cd8e4c8c3bc710edfe5bf, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!61 &773319312
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -14480,7 +14194,6 @@ GameObject:
   - component: {fileID: 792243169}
   - component: {fileID: 792243172}
   - component: {fileID: 792243171}
-  - component: {fileID: 792243170}
   m_Layer: 0
   m_Name: CollectibleDot
   m_TagString: pacdot
@@ -14502,18 +14215,6 @@ Transform:
   m_Father: {fileID: 1141142101}
   m_RootOrder: 11
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &792243170
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 114680361714926964, guid: 10e01e9c650beae47b40b031e0b8816f,
-    type: 2}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 792243168}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7fbcd800c70cd8e4c8c3bc710edfe5bf, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!61 &792243171
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -14802,7 +14503,6 @@ GameObject:
   - component: {fileID: 804861419}
   - component: {fileID: 804861422}
   - component: {fileID: 804861421}
-  - component: {fileID: 804861420}
   m_Layer: 0
   m_Name: CollectibleDot
   m_TagString: pacdot
@@ -14824,18 +14524,6 @@ Transform:
   m_Father: {fileID: 1999108897}
   m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &804861420
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 114642589539076446, guid: 10e01e9c650beae47b40b031e0b8816f,
-    type: 2}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 804861418}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7fbcd800c70cd8e4c8c3bc710edfe5bf, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!61 &804861421
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -14918,7 +14606,6 @@ GameObject:
   - component: {fileID: 810910440}
   - component: {fileID: 810910443}
   - component: {fileID: 810910442}
-  - component: {fileID: 810910441}
   m_Layer: 0
   m_Name: CollectibleDot
   m_TagString: pacdot
@@ -14940,18 +14627,6 @@ Transform:
   m_Father: {fileID: 1141142101}
   m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &810910441
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 114009949330761594, guid: 10e01e9c650beae47b40b031e0b8816f,
-    type: 2}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 810910439}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7fbcd800c70cd8e4c8c3bc710edfe5bf, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!61 &810910442
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -15549,7 +15224,6 @@ GameObject:
   - component: {fileID: 833512191}
   - component: {fileID: 833512194}
   - component: {fileID: 833512193}
-  - component: {fileID: 833512192}
   m_Layer: 0
   m_Name: CollectibleDot
   m_TagString: pacdot
@@ -15571,18 +15245,6 @@ Transform:
   m_Father: {fileID: 182492009}
   m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &833512192
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 114372216813503808, guid: 10e01e9c650beae47b40b031e0b8816f,
-    type: 2}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 833512190}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7fbcd800c70cd8e4c8c3bc710edfe5bf, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!61 &833512193
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -15871,7 +15533,6 @@ GameObject:
   - component: {fileID: 859109004}
   - component: {fileID: 859109007}
   - component: {fileID: 859109006}
-  - component: {fileID: 859109005}
   m_Layer: 0
   m_Name: CollectibleDot
   m_TagString: pacdot
@@ -15893,18 +15554,6 @@ Transform:
   m_Father: {fileID: 318774052}
   m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &859109005
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 114271614187289812, guid: 10e01e9c650beae47b40b031e0b8816f,
-    type: 2}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 859109003}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7fbcd800c70cd8e4c8c3bc710edfe5bf, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!61 &859109006
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -16193,7 +15842,6 @@ GameObject:
   - component: {fileID: 876898188}
   - component: {fileID: 876898191}
   - component: {fileID: 876898190}
-  - component: {fileID: 876898189}
   m_Layer: 0
   m_Name: CollectibleDot
   m_TagString: pacdot
@@ -16215,18 +15863,6 @@ Transform:
   m_Father: {fileID: 1141142101}
   m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &876898189
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 114154910801647716, guid: 10e01e9c650beae47b40b031e0b8816f,
-    type: 2}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 876898187}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7fbcd800c70cd8e4c8c3bc710edfe5bf, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!61 &876898190
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -17205,7 +16841,6 @@ GameObject:
   - component: {fileID: 916853422}
   - component: {fileID: 916853425}
   - component: {fileID: 916853424}
-  - component: {fileID: 916853423}
   m_Layer: 0
   m_Name: CollectibleDot
   m_TagString: pacdot
@@ -17227,18 +16862,6 @@ Transform:
   m_Father: {fileID: 182492009}
   m_RootOrder: 7
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &916853423
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 114504597993097396, guid: 10e01e9c650beae47b40b031e0b8816f,
-    type: 2}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 916853421}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7fbcd800c70cd8e4c8c3bc710edfe5bf, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!61 &916853424
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -19626,7 +19249,6 @@ GameObject:
   - component: {fileID: 980362390}
   - component: {fileID: 980362393}
   - component: {fileID: 980362392}
-  - component: {fileID: 980362391}
   m_Layer: 0
   m_Name: CollectibleDot
   m_TagString: pacdot
@@ -19648,18 +19270,6 @@ Transform:
   m_Father: {fileID: 182492009}
   m_RootOrder: 12
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &980362391
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 114476472925335488, guid: 10e01e9c650beae47b40b031e0b8816f,
-    type: 2}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 980362389}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7fbcd800c70cd8e4c8c3bc710edfe5bf, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!61 &980362392
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -19948,7 +19558,6 @@ GameObject:
   - component: {fileID: 1000618849}
   - component: {fileID: 1000618852}
   - component: {fileID: 1000618851}
-  - component: {fileID: 1000618850}
   m_Layer: 0
   m_Name: CollectibleDot
   m_TagString: pacdot
@@ -19970,18 +19579,6 @@ Transform:
   m_Father: {fileID: 182492009}
   m_RootOrder: 23
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &1000618850
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 114685435101882842, guid: 10e01e9c650beae47b40b031e0b8816f,
-    type: 2}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1000618848}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7fbcd800c70cd8e4c8c3bc710edfe5bf, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!61 &1000618851
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -20167,7 +19764,6 @@ GameObject:
   - component: {fileID: 1014268044}
   - component: {fileID: 1014268047}
   - component: {fileID: 1014268046}
-  - component: {fileID: 1014268045}
   m_Layer: 0
   m_Name: CollectibleDot
   m_TagString: pacdot
@@ -20189,18 +19785,6 @@ Transform:
   m_Father: {fileID: 182492009}
   m_RootOrder: 24
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &1014268045
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 114210032903980658, guid: 10e01e9c650beae47b40b031e0b8816f,
-    type: 2}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1014268043}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7fbcd800c70cd8e4c8c3bc710edfe5bf, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!61 &1014268046
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -21096,6 +20680,140 @@ SpriteRenderer:
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
+--- !u!1 &1087654770
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 1581043484327436, guid: 2cbe891b864101149871512a7d55f535,
+    type: 2}
+  m_PrefabInternal: {fileID: 0}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 1087654776}
+  - component: {fileID: 1087654775}
+  - component: {fileID: 1087654774}
+  - component: {fileID: 1087654773}
+  - component: {fileID: 1087654772}
+  m_Layer: 0
+  m_Name: Pacman
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!50 &1087654772
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 50968442617017326, guid: 2cbe891b864101149871512a7d55f535,
+    type: 2}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1087654770}
+  m_BodyType: 0
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 0
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 4
+--- !u!58 &1087654773
+CircleCollider2D:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 58476467372642722, guid: 2cbe891b864101149871512a7d55f535,
+    type: 2}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1087654770}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  serializedVersion: 2
+  m_Radius: 0.8
+--- !u!95 &1087654774
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 95782439351422146, guid: 2cbe891b864101149871512a7d55f535,
+    type: 2}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1087654770}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: fb2a7da2f73f951488b9ca1b3c92f62d, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 1
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+--- !u!212 &1087654775
+SpriteRenderer:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 212272714735952580, guid: 2cbe891b864101149871512a7d55f535,
+    type: 2}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1087654770}
+  m_Enabled: 1
+  m_CastShadows: 0
+  m_ReceiveShadows: 0
+  m_DynamicOccludee: 1
+  m_MotionVectors: 1
+  m_LightProbeUsage: 0
+  m_ReflectionProbeUsage: 1
+  m_Materials:
+  - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 0
+  m_SelectedEditorRenderState: 0
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 1
+  m_Sprite: {fileID: 21300000, guid: 783850f7e3bb9bc4197e2b984dabe708, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_FlipX: 0
+  m_FlipY: 0
+  m_DrawMode: 0
+  m_Size: {x: 1, y: 1}
+  m_AdaptiveModeThreshold: 0.5
+  m_SpriteTileMode: 0
+  m_WasSpriteAssigned: 1
+  m_MaskInteraction: 0
+--- !u!4 &1087654776
+Transform:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 4883979256516930, guid: 2cbe891b864101149871512a7d55f535,
+    type: 2}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1087654770}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 15, y: 11, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 3
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1088369644
 GameObject:
   m_ObjectHideFlags: 0
@@ -21909,7 +21627,6 @@ GameObject:
   - component: {fileID: 1108685046}
   - component: {fileID: 1108685049}
   - component: {fileID: 1108685048}
-  - component: {fileID: 1108685047}
   m_Layer: 0
   m_Name: CollectibleDot
   m_TagString: pacdot
@@ -21931,18 +21648,6 @@ Transform:
   m_Father: {fileID: 1999108897}
   m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &1108685047
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 114069244507379084, guid: 10e01e9c650beae47b40b031e0b8816f,
-    type: 2}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1108685045}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7fbcd800c70cd8e4c8c3bc710edfe5bf, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!61 &1108685048
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -22693,7 +22398,6 @@ GameObject:
   - component: {fileID: 1142192168}
   - component: {fileID: 1142192171}
   - component: {fileID: 1142192170}
-  - component: {fileID: 1142192169}
   m_Layer: 0
   m_Name: CollectibleDot
   m_TagString: pacdot
@@ -22715,18 +22419,6 @@ Transform:
   m_Father: {fileID: 182492009}
   m_RootOrder: 9
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &1142192169
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 114036066602642754, guid: 10e01e9c650beae47b40b031e0b8816f,
-    type: 2}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1142192167}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7fbcd800c70cd8e4c8c3bc710edfe5bf, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!61 &1142192170
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -26760,9 +26452,8 @@ GameObject:
   - component: {fileID: 1396751345}
   - component: {fileID: 1396751348}
   - component: {fileID: 1396751347}
-  - component: {fileID: 1396751346}
   m_Layer: 0
-  m_Name: pacdot
+  m_Name: CollectibleDot
   m_TagString: pacdot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -26782,18 +26473,6 @@ Transform:
   m_Father: {fileID: 1141142101}
   m_RootOrder: 15
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &1396751346
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 114936022455372592, guid: 10e01e9c650beae47b40b031e0b8816f,
-    type: 2}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1396751344}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7fbcd800c70cd8e4c8c3bc710edfe5bf, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!61 &1396751347
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -26876,7 +26555,6 @@ GameObject:
   - component: {fileID: 1399533454}
   - component: {fileID: 1399533457}
   - component: {fileID: 1399533456}
-  - component: {fileID: 1399533455}
   m_Layer: 0
   m_Name: CollectibleDot
   m_TagString: pacdot
@@ -26898,18 +26576,6 @@ Transform:
   m_Father: {fileID: 1141142101}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &1399533455
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 114949251889605210, guid: 10e01e9c650beae47b40b031e0b8816f,
-    type: 2}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1399533453}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7fbcd800c70cd8e4c8c3bc710edfe5bf, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!61 &1399533456
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -26992,7 +26658,6 @@ GameObject:
   - component: {fileID: 1407855779}
   - component: {fileID: 1407855782}
   - component: {fileID: 1407855781}
-  - component: {fileID: 1407855780}
   m_Layer: 0
   m_Name: CollectibleDot
   m_TagString: pacdot
@@ -27014,18 +26679,6 @@ Transform:
   m_Father: {fileID: 182492009}
   m_RootOrder: 18
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &1407855780
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 114859311925330302, guid: 10e01e9c650beae47b40b031e0b8816f,
-    type: 2}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1407855778}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7fbcd800c70cd8e4c8c3bc710edfe5bf, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!61 &1407855781
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -27108,7 +26761,6 @@ GameObject:
   - component: {fileID: 1408045617}
   - component: {fileID: 1408045620}
   - component: {fileID: 1408045619}
-  - component: {fileID: 1408045618}
   m_Layer: 0
   m_Name: CollectibleDot
   m_TagString: pacdot
@@ -27130,18 +26782,6 @@ Transform:
   m_Father: {fileID: 182492009}
   m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &1408045618
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 114943176515180254, guid: 10e01e9c650beae47b40b031e0b8816f,
-    type: 2}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1408045616}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7fbcd800c70cd8e4c8c3bc710edfe5bf, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!61 &1408045619
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -27484,7 +27124,6 @@ GameObject:
   - component: {fileID: 1427076033}
   - component: {fileID: 1427076036}
   - component: {fileID: 1427076035}
-  - component: {fileID: 1427076034}
   m_Layer: 0
   m_Name: CollectibleDot
   m_TagString: pacdot
@@ -27506,18 +27145,6 @@ Transform:
   m_Father: {fileID: 182492009}
   m_RootOrder: 14
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &1427076034
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 114095733667679724, guid: 10e01e9c650beae47b40b031e0b8816f,
-    type: 2}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1427076032}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7fbcd800c70cd8e4c8c3bc710edfe5bf, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!61 &1427076035
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -27600,7 +27227,6 @@ GameObject:
   - component: {fileID: 1430692737}
   - component: {fileID: 1430692740}
   - component: {fileID: 1430692739}
-  - component: {fileID: 1430692738}
   m_Layer: 0
   m_Name: CollectibleDot
   m_TagString: pacdot
@@ -27622,18 +27248,6 @@ Transform:
   m_Father: {fileID: 182492009}
   m_RootOrder: 10
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &1430692738
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 114174840928232950, guid: 10e01e9c650beae47b40b031e0b8816f,
-    type: 2}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1430692736}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7fbcd800c70cd8e4c8c3bc710edfe5bf, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!61 &1430692739
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -27958,7 +27572,6 @@ GameObject:
   - component: {fileID: 1444736347}
   - component: {fileID: 1444736350}
   - component: {fileID: 1444736349}
-  - component: {fileID: 1444736348}
   m_Layer: 0
   m_Name: CollectibleDot
   m_TagString: pacdot
@@ -27980,18 +27593,6 @@ Transform:
   m_Father: {fileID: 182492009}
   m_RootOrder: 6
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &1444736348
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 114195280488668926, guid: 10e01e9c650beae47b40b031e0b8816f,
-    type: 2}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1444736346}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7fbcd800c70cd8e4c8c3bc710edfe5bf, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!61 &1444736349
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -28074,7 +27675,6 @@ GameObject:
   - component: {fileID: 1459800767}
   - component: {fileID: 1459800770}
   - component: {fileID: 1459800769}
-  - component: {fileID: 1459800768}
   m_Layer: 0
   m_Name: CollectibleDot
   m_TagString: pacdot
@@ -28096,18 +27696,6 @@ Transform:
   m_Father: {fileID: 182492009}
   m_RootOrder: 15
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &1459800768
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 114392580925638162, guid: 10e01e9c650beae47b40b031e0b8816f,
-    type: 2}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1459800766}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7fbcd800c70cd8e4c8c3bc710edfe5bf, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!61 &1459800769
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -28638,7 +28226,6 @@ GameObject:
   - component: {fileID: 1492940020}
   - component: {fileID: 1492940023}
   - component: {fileID: 1492940022}
-  - component: {fileID: 1492940021}
   m_Layer: 0
   m_Name: CollectibleDot
   m_TagString: pacdot
@@ -28660,18 +28247,6 @@ Transform:
   m_Father: {fileID: 318774052}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &1492940021
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 114724652063152898, guid: 10e01e9c650beae47b40b031e0b8816f,
-    type: 2}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1492940019}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7fbcd800c70cd8e4c8c3bc710edfe5bf, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!61 &1492940022
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -29475,9 +29050,8 @@ GameObject:
   - component: {fileID: 1568403054}
   - component: {fileID: 1568403057}
   - component: {fileID: 1568403056}
-  - component: {fileID: 1568403055}
   m_Layer: 0
-  m_Name: pacdot
+  m_Name: CollectibleDot
   m_TagString: pacdot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -29497,18 +29071,6 @@ Transform:
   m_Father: {fileID: 1141142101}
   m_RootOrder: 16
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &1568403055
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 114707430544270138, guid: 10e01e9c650beae47b40b031e0b8816f,
-    type: 2}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1568403053}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7fbcd800c70cd8e4c8c3bc710edfe5bf, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!61 &1568403056
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -30469,7 +30031,6 @@ GameObject:
   - component: {fileID: 1688145991}
   - component: {fileID: 1688145994}
   - component: {fileID: 1688145993}
-  - component: {fileID: 1688145992}
   m_Layer: 0
   m_Name: CollectibleDot
   m_TagString: pacdot
@@ -30491,18 +30052,6 @@ Transform:
   m_Father: {fileID: 182492009}
   m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &1688145992
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 114697111834153568, guid: 10e01e9c650beae47b40b031e0b8816f,
-    type: 2}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1688145990}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7fbcd800c70cd8e4c8c3bc710edfe5bf, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!61 &1688145993
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -30906,9 +30455,8 @@ GameObject:
   - component: {fileID: 1732634567}
   - component: {fileID: 1732634570}
   - component: {fileID: 1732634569}
-  - component: {fileID: 1732634568}
   m_Layer: 0
-  m_Name: pacdot
+  m_Name: CollectibleDot
   m_TagString: pacdot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -30928,18 +30476,6 @@ Transform:
   m_Father: {fileID: 1141142101}
   m_RootOrder: 18
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &1732634568
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 114344049997771398, guid: 10e01e9c650beae47b40b031e0b8816f,
-    type: 2}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1732634566}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7fbcd800c70cd8e4c8c3bc710edfe5bf, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!61 &1732634569
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -31022,7 +30558,6 @@ GameObject:
   - component: {fileID: 1734574093}
   - component: {fileID: 1734574096}
   - component: {fileID: 1734574095}
-  - component: {fileID: 1734574094}
   m_Layer: 0
   m_Name: CollectibleDot
   m_TagString: pacdot
@@ -31044,18 +30579,6 @@ Transform:
   m_Father: {fileID: 182492009}
   m_RootOrder: 17
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &1734574094
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 114376209143973706, guid: 10e01e9c650beae47b40b031e0b8816f,
-    type: 2}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1734574092}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7fbcd800c70cd8e4c8c3bc710edfe5bf, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!61 &1734574095
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -31241,9 +30764,8 @@ GameObject:
   - component: {fileID: 1737551634}
   - component: {fileID: 1737551637}
   - component: {fileID: 1737551636}
-  - component: {fileID: 1737551635}
   m_Layer: 0
-  m_Name: pacdot
+  m_Name: CollectibleDot
   m_TagString: pacdot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -31263,18 +30785,6 @@ Transform:
   m_Father: {fileID: 1141142101}
   m_RootOrder: 17
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &1737551635
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 114331616421133542, guid: 10e01e9c650beae47b40b031e0b8816f,
-    type: 2}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1737551633}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7fbcd800c70cd8e4c8c3bc710edfe5bf, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!61 &1737551636
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -32217,7 +31727,6 @@ GameObject:
   - component: {fileID: 1816477583}
   - component: {fileID: 1816477586}
   - component: {fileID: 1816477585}
-  - component: {fileID: 1816477584}
   m_Layer: 0
   m_Name: CollectibleDot
   m_TagString: pacdot
@@ -32239,18 +31748,6 @@ Transform:
   m_Father: {fileID: 1141142101}
   m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &1816477584
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 114189922018370774, guid: 10e01e9c650beae47b40b031e0b8816f,
-    type: 2}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1816477582}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7fbcd800c70cd8e4c8c3bc710edfe5bf, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!61 &1816477585
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -33201,7 +32698,6 @@ GameObject:
   - component: {fileID: 1908645712}
   - component: {fileID: 1908645715}
   - component: {fileID: 1908645714}
-  - component: {fileID: 1908645713}
   m_Layer: 0
   m_Name: CollectibleDot
   m_TagString: pacdot
@@ -33223,18 +32719,6 @@ Transform:
   m_Father: {fileID: 1999108897}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &1908645713
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 114549570914110810, guid: 10e01e9c650beae47b40b031e0b8816f,
-    type: 2}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1908645711}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7fbcd800c70cd8e4c8c3bc710edfe5bf, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!61 &1908645714
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -34898,9 +34382,8 @@ GameObject:
   - component: {fileID: 2007970634}
   - component: {fileID: 2007970637}
   - component: {fileID: 2007970636}
-  - component: {fileID: 2007970635}
   m_Layer: 0
-  m_Name: pacdot
+  m_Name: CollectibleDot
   m_TagString: pacdot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -34920,18 +34403,6 @@ Transform:
   m_Father: {fileID: 1141142101}
   m_RootOrder: 19
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &2007970635
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 114525244477292620, guid: 10e01e9c650beae47b40b031e0b8816f,
-    type: 2}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 2007970633}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7fbcd800c70cd8e4c8c3bc710edfe5bf, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!61 &2007970636
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -35323,7 +34794,6 @@ GameObject:
   - component: {fileID: 2037448710}
   - component: {fileID: 2037448713}
   - component: {fileID: 2037448712}
-  - component: {fileID: 2037448711}
   m_Layer: 0
   m_Name: CollectibleDot
   m_TagString: pacdot
@@ -35345,18 +34815,6 @@ Transform:
   m_Father: {fileID: 1141142101}
   m_RootOrder: 12
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &2037448711
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 114733993168186820, guid: 10e01e9c650beae47b40b031e0b8816f,
-    type: 2}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 2037448709}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7fbcd800c70cd8e4c8c3bc710edfe5bf, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!61 &2037448712
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -35681,7 +35139,6 @@ GameObject:
   - component: {fileID: 2054477589}
   - component: {fileID: 2054477592}
   - component: {fileID: 2054477591}
-  - component: {fileID: 2054477590}
   m_Layer: 0
   m_Name: CollectibleDot
   m_TagString: pacdot
@@ -35703,18 +35160,6 @@ Transform:
   m_Father: {fileID: 1141142101}
   m_RootOrder: 8
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &2054477590
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 114651964797206280, guid: 10e01e9c650beae47b40b031e0b8816f,
-    type: 2}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 2054477588}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7fbcd800c70cd8e4c8c3bc710edfe5bf, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!61 &2054477591
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -36003,7 +35448,6 @@ GameObject:
   - component: {fileID: 2071547485}
   - component: {fileID: 2071547488}
   - component: {fileID: 2071547487}
-  - component: {fileID: 2071547486}
   m_Layer: 0
   m_Name: CollectibleDot
   m_TagString: pacdot
@@ -36025,18 +35469,6 @@ Transform:
   m_Father: {fileID: 182492009}
   m_RootOrder: 11
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &2071547486
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 114678300823175990, guid: 10e01e9c650beae47b40b031e0b8816f,
-    type: 2}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 2071547484}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7fbcd800c70cd8e4c8c3bc710edfe5bf, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!61 &2071547487
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -36119,7 +35551,6 @@ GameObject:
   - component: {fileID: 2071691650}
   - component: {fileID: 2071691653}
   - component: {fileID: 2071691652}
-  - component: {fileID: 2071691651}
   m_Layer: 0
   m_Name: CollectibleDot
   m_TagString: pacdot
@@ -36141,18 +35572,6 @@ Transform:
   m_Father: {fileID: 1141142101}
   m_RootOrder: 13
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &2071691651
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 114002701524928074, guid: 10e01e9c650beae47b40b031e0b8816f,
-    type: 2}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 2071691649}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7fbcd800c70cd8e4c8c3bc710edfe5bf, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!61 &2071691652
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -36235,7 +35654,6 @@ GameObject:
   - component: {fileID: 2072177697}
   - component: {fileID: 2072177700}
   - component: {fileID: 2072177699}
-  - component: {fileID: 2072177698}
   m_Layer: 0
   m_Name: CollectibleDot
   m_TagString: pacdot
@@ -36257,18 +35675,6 @@ Transform:
   m_Father: {fileID: 318774052}
   m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &2072177698
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 114962233365494288, guid: 10e01e9c650beae47b40b031e0b8816f,
-    type: 2}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 2072177696}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7fbcd800c70cd8e4c8c3bc710edfe5bf, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!61 &2072177699
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -37314,7 +36720,6 @@ GameObject:
   - component: {fileID: 2131696399}
   - component: {fileID: 2131696402}
   - component: {fileID: 2131696401}
-  - component: {fileID: 2131696400}
   m_Layer: 0
   m_Name: CollectibleDot
   m_TagString: pacdot
@@ -37336,18 +36741,6 @@ Transform:
   m_Father: {fileID: 318774052}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &2131696400
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 114365328834960858, guid: 10e01e9c650beae47b40b031e0b8816f,
-    type: 2}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 2131696398}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7fbcd800c70cd8e4c8c3bc710edfe5bf, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!61 &2131696401
 BoxCollider2D:
   m_ObjectHideFlags: 0
