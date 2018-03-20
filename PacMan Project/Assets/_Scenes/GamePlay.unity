@@ -20693,6 +20693,7 @@ GameObject:
   - component: {fileID: 1087654774}
   - component: {fileID: 1087654773}
   - component: {fileID: 1087654772}
+  - component: {fileID: 1087654771}
   m_Layer: 0
   m_Name: Pacman
   m_TagString: Untagged
@@ -20700,6 +20701,18 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+--- !u!114 &1087654771
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1087654770}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6906891b2551d644d94b3914af2f09e5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  speed: 0.2
 --- !u!50 &1087654772
 Rigidbody2D:
   serializedVersion: 4
